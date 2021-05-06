@@ -1,2 +1,0 @@
-# rules-poc
-Begin app
